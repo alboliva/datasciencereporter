@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Le mie Pubblicazioni
+title: Pubblicazioni Anno 2026
+permalink: /2026/
 ---
 
 ## Elenco Cronologico
