@@ -16,5 +16,5 @@ permalink: /2026/
       <a href="{{ pub.link }}">Leggi l'articolo</a>
       <small style="color: gray;">#{{ pub.tag }}</small>
     </li>
-  {% endfor %} 
+  {% endfor %}
 </ul>
