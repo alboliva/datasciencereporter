@@ -1,6 +1,7 @@
 # _data/pubblicazioni.yml   (o il nome che usi)
 
 - titolo: "AS Roma 2025/26 — Analisi per la qualificazione alla Champions League"
+  titolo_en: "AS Roma 2025/26 — Analysis for Champions League Qualification"
   anno: 2026
   link: "https://alboliva.github.io/datasciencereporter/2026/0120260411_as_roma_champions.html"
   tag: "OperationResearch"
@@ -9,8 +10,10 @@
   data_label: "11 aprile 2026"
 
 - titolo: "Ottimizzazione del Processo di Sminamento Navale nello Stretto di Hormuz"
+  titolo_en: "Naval Mine Clearance Optimization in the Strait of Hormuz"
   anno: 2026
   link: "https://alboliva.github.io/datasciencereporter/2026/0220260412_hormuz_sminamento.html"
+  link_en: "https://alboliva.github.io/datasciencereporter/2026/0220260412_hormuz_sminamento_EN.html"
   tag: "OperationResearch"
   argomento: "Guerra"
   data: "2026-04-12"
