@@ -20,9 +20,11 @@
   data: "2026-04-12"
   data_label: "12 aprile 2026"
 
-- titolo: "Strategia Anaconda"
+- titolo: "Strategia Anaconda per la Gestione della Vulnerabilità dello Stretto di Hormuz"
+  titolo_en: "Anaconda Strategy for Managing Vulnerability in the Strait of Hormuz"
   anno: 2026
   link: "https://alboliva.github.io/datasciencereporter/2026/0420260414_anaconda_strategy_w.html"
+  link_en: "https://alboliva.github.io/datasciencereporter/2026/0420260414_anaconda_strategy_en.html"
   tag: "GamesTheory"
   argomento: "Economia"
   data: "2026-04-14"
