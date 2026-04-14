@@ -1,14 +1,22 @@
 # _data/pubblicazioni.yml   (o il nome che usi)
 
-- titolo: "AS Roma 2025/26 — Analisi per la qualificazione alla Champions League"
-  titolo_en: "AS Roma 2025/26 — Analysis for Champions League Qualification"
+- titolo: "Strategia Anaconda per la Gestione della Vulnerabilità dello Stretto di Hormuz"
+  titolo_en: "Anaconda Strategy for Managing Vulnerability in the Strait of Hormuz"
   anno: 2026
-  link: "https://alboliva.github.io/datasciencereporter/2026/0120260411_as_roma_champions.html"
-  link_en: "https://alboliva.github.io/datasciencereporter/2026/0120260411_as_roma_champions_EN.html"
-  tag: "OperationResearch"
-  argomento: "Calcio"
-  data: "2026-04-11"
-  data_label: "11 aprile 2026"
+  link: "https://alboliva.github.io/datasciencereporter/2026/0420260414_anaconda_strategy_w.html"
+  link_en: "https://alboliva.github.io/datasciencereporter/2026/0420260414_anaconda_strategy_en.html"
+  tag: "GamesTheory"
+  argomento: "Economia"
+  data: "2026-04-14"
+  data_label: "14 aprile 2026"
+  
+- titolo: "La Caduta di Fidesz alle Elezioni Ungheresi del 2026"
+  anno: 2026
+  link: "https://alboliva.github.io/datasciencereporter/2026/0320260413_elezioni_ungheria_2026.html"
+  tag: "DataAnalysis"
+  argomento: "Elezioni"
+  data: "2026-04-13"
+  data_label: "13 aprile 2026"
 
 - titolo: "Ottimizzazione del Processo di Sminamento Navale nello Stretto di Hormuz"
   titolo_en: "Naval Mine Clearance Optimization in the Strait of Hormuz"
@@ -20,12 +28,12 @@
   data: "2026-04-12"
   data_label: "12 aprile 2026"
 
-- titolo: "Strategia Anaconda per la Gestione della Vulnerabilità dello Stretto di Hormuz"
-  titolo_en: "Anaconda Strategy for Managing Vulnerability in the Strait of Hormuz"
+- titolo: "AS Roma 2025/26 — Analisi per la qualificazione alla Champions League"
+  titolo_en: "AS Roma 2025/26 — Analysis for Champions League Qualification"
   anno: 2026
-  link: "https://alboliva.github.io/datasciencereporter/2026/0420260414_anaconda_strategy_w.html"
-  link_en: "https://alboliva.github.io/datasciencereporter/2026/0420260414_anaconda_strategy_en.html"
-  tag: "GamesTheory"
-  argomento: "Economia"
-  data: "2026-04-14"
-  data_label: "14 aprile 2026"
+  link: "https://alboliva.github.io/datasciencereporter/2026/0120260411_as_roma_champions.html"
+  link_en: "https://alboliva.github.io/datasciencereporter/2026/0120260411_as_roma_champions_EN.html"
+  tag: "OperationResearch"
+  argomento: "Calcio"
+  data: "2026-04-11"
+  data_label: "11 aprile 2026"
