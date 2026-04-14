@@ -19,3 +19,11 @@
   argomento: "Guerra"
   data: "2026-04-12"
   data_label: "12 aprile 2026"
+
+- titolo: "Strategia Anaconda"
+  anno: 2026
+  link: "https://alboliva.github.io/datasciencereporter/2026/0420260414_anaconda_strategy_w.html"
+  tag: "GamesTheory"
+  argomento: "Economia"
+  data: "2026-04-14"
+  data_label: "14 aprile 2026"
