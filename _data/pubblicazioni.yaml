@@ -1,5 +1,15 @@
 # _data/pubblicazioni.yml   (o il nome che usi)
 
+- titolo: "Quanto Tempo Ha l’Iran Prima del Collasso Economico? Analisi Quantitativa dello Shock da Chiusura Improvvisa dello Stretto di Hormuz"
+  titolo_en: "How Long Does Iran Have Before Economic Collapse? A Quantitative Analysis of the Sudden Closure of the Strait of Hormuz"
+  anno: 2026
+  link: "https://alboliva.github.io/datasciencereporter/2026/iran_hormuz_analysis.html"
+  link_en: "https://alboliva.github.io/datasciencereporter/2026/iran_hormuz_analysis_EN.html"
+  tag: "Economia"
+  argomento: "Economia"
+  data: "2026-04-22"
+  data_label: "22 aprile 2026"
+
 - titolo: "Strategia Anaconda per la Gestione della Vulnerabilità dello Stretto di Hormuz"
   titolo_en: "Anaconda Strategy for Managing Vulnerability in the Strait of Hormuz"
   anno: 2026
